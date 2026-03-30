@@ -27,4 +27,4 @@ Atualmente focado em transformar processos de recrutamento com o **ResuMatch**, 
 
 
 ### 📫 Como me encontrar:
-- Email-Pessoal: williampereirao250@gmail.com
+- Email-Pessoal: williampereira250@gmail.com
