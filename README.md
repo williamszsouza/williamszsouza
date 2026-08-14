@@ -1,21 +1,20 @@
-# Olá, eu sou o William 👋
+# Olá, eu sou o William 
 
-### 🚀 Desenvolvedor Fullstack 
-Atualmente focado em transformar processos de recrutamento com o **ResuMatch**, utilizando IA para otimizar a carreira de desenvolvedores.
+###  Desenvolvedor Fullstack 
 
 ---
 
-### 🛠️ No que estou trabalhando:
-- 🤖 **ResuMatch**: Um SaaS de análise de currículos com Gemini 1.5 Flash.
-- 💳 **Gateways de Pagamento**: Integração de fluxos de checkout com Mercado Pago e Asaas.
+###  No que estou trabalhando:
+-  **ResuMatch**: Um SaaS de análise de currículos com Gemini 1.5 Flash.
+-  **Gateways de Pagamento**: Integração de fluxos de checkout com Mercado Pago e Asaas.
 
-### 💻 Stack Tecnológica:
+###  Stack Tecnológica:
 - **Frontend:** Vue.js, Tailwind CSS, React, React Native, Bootstrap
 - **Backend:** Node.js, Laravel (PHP), Spring Boot (Java), c#
 - **Database:** PostgreSQL, MySQL, Supabase, MongoDB
 - **Infra:** Docker, Vercel, Railway
 
-### 📊 Estatísticas:
+###  Estatísticas:
 ![Estatísticas do William](https://github-readme-stats.vercel.app/api?username=williamszsouza&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true))
 ![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=williamszsouza&theme=midnight-purple&show_icons=true&hide_border=true&layout=compact))
 ![Visitantes](https://komarev.com/ghpvc/?username=williamszsouza&color=blue)
