@@ -22,7 +22,6 @@
 - **Mobile:** React Native, Expo
 
 ### Estatísticas:
-![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=williamszsouza&theme=midnight-purple&show_icons=true&hide_border=true&layout=compact)
 ![Visitantes](https://komarev.com/ghpvc/?username=williamszsouza&color=blue)
 
 ---
