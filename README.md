@@ -36,4 +36,4 @@
 </p>
 
 ### 📫 Como me encontrar:
-- Email pessoal: williampereira250@gmail.com
+- Email pessoal: wdsouzadev@gmail.com
