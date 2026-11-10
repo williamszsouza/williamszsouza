@@ -4,13 +4,6 @@
 
 ---
 
-### No que estou trabalhando:
-- **APIs serverless em Node.js/TypeScript**: Express e Fastify rodando em AWS Lambda, com DynamoDB, SQS e SES.
-- **Painéis em React + TypeScript**: aplicações com Vite, Chakra UI, TanStack Query, Zustand e validação com Zod.
-- **IA aplicada a produto**: integrações com Claude (Anthropic), OpenAI e Amazon Bedrock, além de servidores MCP e automações no n8n.
-- **ResuMatch**: SaaS de análise de currículos com Gemini 1.5 Flash.
-- **Gateways de Pagamento**: integração de fluxos de checkout com Mercado Pago e Asaas.
-
 ### Stack Tecnológica:
 - **Frontend:** React, TypeScript, Vite, Vue.js, Tailwind CSS, Chakra UI, TanStack Query, Zustand, React Hook Form + Zod, Bootstrap
 - **Backend:** Node.js, TypeScript, Express, Fastify, GraphQL (Apollo), Laravel (PHP), Spring Boot (Java), C#, Python
